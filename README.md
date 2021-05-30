@@ -1,3 +1,10 @@
+This Project uses React to create a Blog repository where the users can create, update, store, read and remove Blogs.
+Once you have deployed the project, you will arrive at a table which displays the list of blogs that have been created
+and stored by the user. There is a button to add a new blog which enables the user to create and store a new blog.
+
+Once the user has created their blog, it shows up on the table with a button that enables the user to edit or delete 
+the blog. Updating or deleting a blog is an irreversible action.
+
 This Project uses [Create React App] to Bootstrap (https://github.com/facebook/create-react-app)
 I Use Postman to handle the API calls and data in JSON format.
 
